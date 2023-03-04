@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luancastoldi/dad9101240253321f39b32644e4cb1e8/raw/3e5953969d91d7135f670cdde36ea862651d3b07/mycard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luancastoldi/dad9101240253321f39b32644e4cb1e8/raw/c7949dacfcac6000b2195203fb52dcbd794cab36/mycard.svg"/>
 
 <h1 align="left">Hi 👋, I'm Luan Castoldi</h1>
 
