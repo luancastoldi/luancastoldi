@@ -4,7 +4,7 @@
 
 
 - 🔥 Junir Web Developer
-- 🌱 I’m currently learning JavaScript, HTML, CSS, and Delphi. 
+- 🌱 I’m currently learning JavaScript, JAVA and Delphi. 
 
 
 <br><br>
