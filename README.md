@@ -3,8 +3,8 @@
 <h1 align="left">Hi 👋, I'm Luan Castoldi</h1>
 
 
-- 🔥 Junir Web Developer
-- 🌱 I’m currently learning JavaScript, JAVA and Delphi. 
+- 🔥 Web Developer
+- 🌱 I’m currently learning JavaScript & AI. 
 
 
 <br><br>
